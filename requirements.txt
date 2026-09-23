@@ -1,0 +1,6 @@
+opencv-python
+pylibdmtx
+setuptools
+pyzbar
+numpy
+pywin32
